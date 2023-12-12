@@ -1,0 +1,98 @@
+.move{
+    margin-left: 500px;
+}
+.size{
+    font-size: 20px;
+}
+.bg{
+    background-color:rgba(192, 214, 249, 0.5);
+    
+}
+/* .body{
+    background-color:rgba(105, 160, 247, 0.5);
+    padding: 0px;
+    margin: 0px;
+} */
+.bodys{
+    background-image: linear-gradient(rgba(105, 160, 247, 0.5),white);
+    padding: 0%;
+    margin: 0%;
+   
+   
+}
+.head{
+    color: black;
+   
+}
+.secHead{
+    color: blue;
+}
+.header{
+    font-weight: 800;
+    font-size: 50px;
+}
+.box{
+    margin-top: 70px;
+    margin-left: 110px;
+}
+
+.firstRow{
+    display: flex;
+}
+.para{
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn{
+    display: flex;
+}
+.btnone{
+    height: 50px;
+    width: 140px;
+    border: 0px solid ;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btnone:hover{
+    background-color: white;
+    color: blue;
+    border: 1px solid black;
+}
+.btntwo{
+    height: 50px;
+    width: 140px;
+    border: 0px solid ;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btntwo:hover{
+    background-color: white;
+    color: blue;
+    border: 1px solid black;
+}
+.image{
+    height: 80%;
+    width: 80%;
+    border-radius: 40%;
+}
+.fr{
+    background-color: blue;
+}
+.sc{
+    background-color: brown;
+}
+.length{
+    width: 100%;
+}

@@ -1,0 +1,55 @@
+.thirdImage{
+    height: 350px;
+    width: 500px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.thirdbox{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.thirdPara{
+    font-weight: 500;
+    font-size: 20px;
+}
+.thirdHead{
+    font-size: 700;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.thirdButtonOne{
+    height: 50px;
+    width: 140px;
+    border: 0px solid ;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.thirdButtonOne:hover{
+    background-color: white;
+    color: blue;
+    border: 1px solid black;
+}
+.thirdButtonTwo{
+    height: 50px;
+    width: 140px;
+    border: 0px solid ;
+    background-color: white;
+    color: blue;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.thirdButtonTwo:hover{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}

@@ -1,0 +1,19 @@
+.popupVideo{
+    position: fixed;
+    top:0;
+    left:0;
+    width:600px;
+    height: 600px;
+    background-color: rgb(136, 139, 139);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
+.insidepop{
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 640px;
+    background-color: #fff;
+}

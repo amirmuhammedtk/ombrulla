@@ -1,0 +1,30 @@
+.sevenBoxOne{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.sevenBoxTwo{
+    margin: 30px;
+    margin-top: 60px;
+    background-color: #e3ebfa;
+    border-radius: 30px;
+    align-items: center;
+    
+}
+.sevenBoxThree{
+    margin: 30px;
+    margin-top: 60px;
+    background-color: #e3ebfa;
+    border-radius: 30px;
+    align-items: center;
+    
+}
+.sevenbtnone{
+    background-color: #e3ebfa00;
+    padding: 20px;
+    border: 1px ;
+}
+.sevenbtntwo{
+    background-color: #e3ebfa00;
+    padding: 1px;
+    border: 1px ;
+}

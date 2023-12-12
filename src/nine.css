@@ -1,0 +1,16 @@
+.nineflex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-around;
+}
+.nineBox{
+    border-radius: 1px solid;
+    border-radius: 30px;
+    background-color: rgb(239, 246, 253);
+    width: 800px;
+    height: 300px;
+    padding: 50px;
+    margin: 50px;
+}

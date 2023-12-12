@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgb(2, 21, 51);
+}
+.tenflex{
+    display: flex;
+}
+.tenbox{
+    color: white;
+    padding: 30px;
+}
+.iconsfooter{
+    display: flex;
+    padding: 5px;
+}
